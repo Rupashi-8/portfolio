@@ -1,0 +1,28 @@
+a{
+    text-decoration: none;
+    color:black;
+}
+.contactme{
+    text-align: center;
+    font-size: xx-large;
+    margin-left: auto;
+    display: flex;
+    flex-direction: column;
+}
+.Contact{
+    margin-top: 10rem;
+}
+.icons{
+    font-size: xx-large;
+
+}
+.buttons{
+    font-size: xx-large;
+}
+#linkedin{
+    color: rgb(14, 62, 164);
+  
+}
+#fb{
+    color:rgb(40, 130, 226)
+}

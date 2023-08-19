@@ -1,0 +1,16 @@
+
+    [{   "id": 1,
+       " name": "Rupashi Goel",
+       " image":"images/rupashi.jpeg",
+        "skillimg" : [
+       { "img":"../images/download.png"},
+       {"img":"../images/css.png"},
+       {"img":"../images/js.jpg"},
+       {"img":"../images/phpp.png"},
+       {"img":"../images/react.png"},
+       {"img":"../images/flask.png"}],
+        "skills":["HTML","CSS","JAVASCRIPT","PHP LARAVEL","REACT JS","PYTHON FLASK"],
+       " description": 
+        "A passionate frontend software developer with a proven track record of crafting visually appealing and user-centric web interfaces. Proficient in HTML, CSS, and JavaScript, and adept at leveraging modern frontend frameworks like React to create seamless digital experiences. Additionally, equipped with solid knowledge of backend technologies including PostgreSQL and PHP, enhancing my ability to design holistic web solutions. Eager to contribute my technical expertise and cross-disciplinary skills to a collaborative team focused on building innovative and high-quality web applications."
+    }]
+   
